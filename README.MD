@@ -1,7 +1,7 @@
 
-This repository contains cygwin1.dll (32-bit version) and its source code that we provide accodring to the Cygwin licensing terms.
+This repository contains _cygwin1.dll_ (32-bit version) and its source code that we provide according to the Cygwin licensing terms.
 
-cygwin1.dll is required to run Windows binaries of FormLink and Vermaseren's FORM. These binaries are distributed as a part of the FormLink installation.
+_cygwin1.dll_ is required to run Windows binaries of FormLink and Vermaseren's FORM. These binaries are distributed as a part of the FormLink installation.
 
 **This is not an official provider for Cygwin and the owners of this repository are not related to Cygwin or its developers in any way**. 
 
